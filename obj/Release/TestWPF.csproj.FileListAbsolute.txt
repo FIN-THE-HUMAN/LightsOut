@@ -1,0 +1,13 @@
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\bin\Release\TestWPF.exe.config
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\bin\Release\TestWPF.exe
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\bin\Release\TestWPF.pdb
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\obj\Release\MainWindow.g.cs
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\obj\Release\App.g.cs
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\obj\Release\TestWPF_MarkupCompile.cache
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\obj\Release\TestWPF_MarkupCompile.lref
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\obj\Release\MainWindow.baml
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\obj\Release\TestWPF.g.resources
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\obj\Release\TestWPF.Properties.Resources.resources
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\obj\Release\TestWPF.csproj.GenerateResource.Cache
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\obj\Release\TestWPF.exe
+C:\Users\hp\documents\visual studio 2015\Projects\TestWPF\TestWPF\obj\Release\TestWPF.pdb
